@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1766858587685,
+      "tag": "0000_famous_randall",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1766859776491,
+      "tag": "0001_powerful_the_leader",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1766861308562,
+      "tag": "0002_gigantic_wonder_man",
+      "breakpoints": true
+    }
+  ]
+}
